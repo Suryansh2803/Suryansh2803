@@ -238,9 +238,6 @@ A modern college club website focused on interactive UI, responsive design and a
 
 <div align="center">
 
-<a href="https://leetcode.com/suryansh_2803">
-  <img src="https://img.shields.io/badge/LeetCode-2563EB?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
 
 <a href="https://portfolio-website-theta-ten-66.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
