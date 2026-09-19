@@ -15,9 +15,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Full--Stack-2563EB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%2FML-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <a href="https://leetcode.com/suryansh_2803">
+    <img src="https://img.shields.io/badge/LeetCode-00FF9C?style=for-the-badge&logo=leetcode&logoColor=0D1117"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/suryanshyadav2803/">
+    <img src="https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+  </a>
+
+  <a href="https://portfolio-website-theta-ten-66.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=google-chrome&logoColor=0D1117"/>
+  </a>
+
 </p>
 
 <p align="center">
