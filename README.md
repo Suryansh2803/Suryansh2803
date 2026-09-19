@@ -123,10 +123,6 @@ public:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suryansh2803&repo=Splitvilla&theme=github_dark&hide_border=true" />
 </a>
 
-<a href="https://github.com/Suryansh2803/Supernova_2.0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suryansh2803&repo=Supernova_2.0&theme=github_dark&hide_border=true" />
-</a>
-
 </div>
 
 ### 💰 SplitVilla — Smart Expense Splitter
@@ -141,47 +137,74 @@ A web application that simplifies shared expenses and minimizes unnecessary tran
 
 ---
 
-### 🌌 Supernova
-
-An interactive web project focused on creating a modern, engaging and responsive user experience.
-
-**Tech:** HTML • CSS • JavaScript
-
-🔗 [Source Code](https://github.com/Suryansh2803/Supernova_2.0)
-
----
-
 ### 🌐 College Club Website
 
 A modern college club website focused on interactive UI, responsive design and an engaging user experience.
 
 **Tech:** HTML • CSS • JavaScript
 
+🔗 [Live Website](https://club-website-zoue.vercel.app/)
+
 ---
 
 # 🧠 DSA Journey
 
-> "First solve the problem. Then write the code."
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=Learning+DSA+%F0%9F%A7%A0;Solving+Problems+%F0%9F%92%BB;Revising+Concepts+%F0%9F%94%84;Improving+Problem+Solving+Every+Day+%F0%9F%9A%80"
+    alt="DSA Journey"
+  />
+</p>
 
-Currently focused on strengthening my problem-solving skills through consistent Data Structures & Algorithms practice.
+<div align="center">
 
 ### 📚 Topics
 
-`Arrays` `Strings` `Two Pointers` `Sliding Window`
+`Arrays` • `Strings` • `Two Pointers` • `Sliding Window`
 
-`Binary Search` `Linked Lists` `Stacks` `Queues`
+`Binary Search` • `Linked Lists` • `Stacks` • `Queues`
 
-`Recursion` `Trees` `Graphs` `Heaps`
+`Recursion` • `Trees` • `Graphs` • `Heaps`
 
-`Greedy` `Backtracking` `Bit Manipulation`
+`Greedy` • `Backtracking` • `Bit Manipulation`
 
-`Dynamic Programming` `Tries`
+`Dynamic Programming` • `Tries`
 
-### ⚡ Practice
+### ⚡ Progress
 
-💻 **200+ LeetCode Problems Solved**
+**200+ LeetCode Problems Solved**
 
-📌 Following structured DSA practice and regularly revising previously solved problems.
+</div>
+
+---
+
+# 🟧 LeetCode
+
+<div align="center">
+
+### 💻 My LeetCode Journey
+
+<a href="https://leetcode.com/suryansh_2803">
+
+<img src="https://leetcard.jacoblin.cool/suryansh_2803?theme=dark&font=baloo&ext=activity" width="500"/>
+
+</a>
+
+<br><br>
+
+### 📊 Problem Solving Activity
+
+<img src="https://leetcard.jacoblin.cool/suryansh_2803?theme=dark&font=baloo&ext=heatmap" width="700"/>
+
+<br>
+
+<a href="https://leetcode.com/suryansh_2803">
+
+<img src="https://img.shields.io/badge/View%20Full%20LeetCode%20Profile-2563EB?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+</div>
 
 ---
 
@@ -196,16 +219,6 @@ Currently focused on strengthening my problem-solving skills through consistent 
 <br>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Suryansh2803&theme=dark&hide_border=true&layout=compact"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Suryansh2803&theme=darkhub&no-frame=true&no-bg=true&margin-w=6"/>
 
 </div>
 
