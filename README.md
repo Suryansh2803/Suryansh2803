@@ -34,8 +34,34 @@
 </p>
 
 ---
-# 💫 About Me:
-🚀 Currently building full-stack web projects and exploring AI/ML<br>💻 B.Tech CSE (AI/ML) student at GL Bajaj Institute of Technology & Management<br>🧠 Currently strengthening my Data Structures & Algorithms skills<br>🌱 Learning React, Node.js, MongoDB & modern web development<br>🤝 Open to collaborating on interesting web development, AI/ML & open-source projects<br>💬 Ask me about DSA, C++, JavaScript, Web Development & problem solving<br>⚡ Fun fact: I enjoy turning ideas into projects and solving problems with code
+## 👨‍💻 About Me
+
+```cpp
+class Suryansh {
+public:
+
+    string role = "Software Developer";
+    string education = "B.Tech CSE (AI/ML)";
+
+    vector<string> interests = {
+        "Data Structures & Algorithms",
+        "Full-Stack Development",
+        "Artificial Intelligence",
+        "Problem Solving"
+    };
+
+    vector<string> currentlyLearning = {
+        "Advanced DSA",
+        "React & Node.js",
+        "AI / Machine Learning"
+    };
+
+    string goal =
+        "Build useful software and become a better problem solver.";
+
+    string mindset =
+        "Learn → Build → Solve → Improve 🚀";
+};
 
 
 ## 🌐 Socials:
