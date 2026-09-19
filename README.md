@@ -1,12 +1,19 @@
-# 👋 Hey, I'm Suryansh Yadav
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Suryansh+Yadav+%F0%9F%91%8B;CSE+(AI%2FML)+Student+%F0%9F%92%BB;Software+Developer+%F0%9F%9A%80;DSA+%7C+Full-Stack+%7C+AI%2FML+%F0%9F%A4%96;Always+Learning.+Always+Building.+%E2%9A%A1" alt="Typing SVG" />
+</p>
 
-### 💻 CSE (AI/ML) Student | Software Developer | Problem Solver
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=120&section=header" width="100%"/>
+</p>
 
-I enjoy building practical applications, solving challenging problems, and learning how things work under the hood.
+<p align="center">
+  <b>💻 CSE (AI/ML) Student &nbsp;•&nbsp; Software Developer &nbsp;•&nbsp; Problem Solver</b>
+</p>
 
-Currently focused on **Data Structures & Algorithms, Full-Stack Development, and exploring Artificial Intelligence & Machine Learning.**
-
----
+<p align="center">
+  Building practical applications, solving problems, and exploring
+  <b>Full-Stack Development</b> & <b>Artificial Intelligence</b>.
+</p>
 
 # 💫 About Me:
 🚀 Currently building full-stack web projects and exploring AI/ML<br>💻 B.Tech CSE (AI/ML) student at GL Bajaj Institute of Technology & Management<br>🧠 Currently strengthening my Data Structures & Algorithms skills<br>🌱 Learning React, Node.js, MongoDB & modern web development<br>🤝 Open to collaborating on interesting web development, AI/ML & open-source projects<br>💬 Ask me about DSA, C++, JavaScript, Web Development & problem solving<br>⚡ Fun fact: I enjoy turning ideas into projects and solving problems with code
