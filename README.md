@@ -76,12 +76,15 @@
 │   └─ ● ONLINE • Always Learning                            │
 │                                                            │
 ╰────────────────────────────────────────────────────────────╯
-
+</div>
 
 ### 🎯 Current Focus
 
+<div align="center">
+
 `DSA` → `Full-Stack` → `AI/ML` → `Real-World Projects`
 
+</div>
 ---
 
 # 🛠️ Tech Stack
