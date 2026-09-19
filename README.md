@@ -1,20 +1,30 @@
+<!-- ===== HERO SECTION ===== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Suryansh+Yadav+%F0%9F%91%8B;CSE+(AI%2FML)+Student+%F0%9F%92%BB;Software+Developer+%F0%9F%9A%80;DSA+%7C+Full-Stack+%7C+AI%2FML+%F0%9F%A4%96;Always+Learning.+Always+Building.+%E2%9A%A1" alt="Typing SVG" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A8A,70:2563EB,100:7C3AED&height=220&section=header&text=Suryansh%20Yadav&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20CSE%20(AI%2FML)%20Student&descAlignY=62&descSize=18&descColor=C7D2FE"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=120&section=header" width="100%"/>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=DSA+%7C+Full-Stack+Development+%7C+AI%2FML;Building+Projects+%F0%9F%9A%80;Solving+Problems+%F0%9F%A7%A0;Always+Learning.+Always+Building.+%E2%9A%A1"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <b>💻 CSE (AI/ML) Student &nbsp;•&nbsp; Software Developer &nbsp;•&nbsp; Problem Solver</b>
+  <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full--Stack-2563EB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <p align="center">
-  Building practical applications, solving problems, and exploring
-  <b>Full-Stack Development</b> & <b>Artificial Intelligence</b>.
+  <b>Learn → Build → Solve → Improve 🚀</b>
 </p>
 
+---
 # 💫 About Me:
 🚀 Currently building full-stack web projects and exploring AI/ML<br>💻 B.Tech CSE (AI/ML) student at GL Bajaj Institute of Technology & Management<br>🧠 Currently strengthening my Data Structures & Algorithms skills<br>🌱 Learning React, Node.js, MongoDB & modern web development<br>🤝 Open to collaborating on interesting web development, AI/ML & open-source projects<br>💬 Ask me about DSA, C++, JavaScript, Web Development & problem solving<br>⚡ Fun fact: I enjoy turning ideas into projects and solving problems with code
 
