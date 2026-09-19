@@ -1,5 +1,3 @@
-<!-- ===== HERO SECTION ===== -->
-
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A8A,70:2563EB,100:7C3AED&height=220&section=header&text=Suryansh%20Yadav&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20CSE%20(AI%2FML)%20Student&descAlignY=62&descSize=18&descColor=C7D2FE"
@@ -29,11 +27,13 @@
   </a>
 
 </p>
+
 <p align="center">
   <b>Learn → Build → Solve → Improve 🚀</b>
 </p>
 
 ---
+
 ## 👨‍💻 About Me
 
 ```cpp
@@ -62,38 +62,183 @@ public:
     string mindset =
         "Learn → Build → Solve → Improve 🚀";
 };
+```
 
+---
+
+## 🚀 What I'm Currently Doing
+
+```text
+┌──────────────────────────────────────────────────┐
+│  ~/suryansh/status                               │
+│                                                  │
+│  🧠  Mastering Data Structures & Algorithms      │
+│  💻  Building Full-Stack Web Projects            │
+│  🌐  Learning React & Node.js                    │
+│  🗄️  Working with MongoDB & SQL                 │
+│  🤖  Exploring AI / Machine Learning             │
+│  🔥  Solving problems on LeetCode                │
+│  🚀  Preparing for Software Engineering          │
+│      Internships & Placements                    │
+│                                                  │
+│  status: ● ONLINE                                │
+└──────────────────────────────────────────────────┘
+```
+
+### 🎯 Current Focus
+
+`DSA` → `Full-Stack` → `AI/ML` → `Real-World Projects`
+
+---
 
 # 🛠️ Tech Stack
 
+<div align="center">
+
 ### 💻 Languages
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,js,c" />
-
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js" />
 
 ### 🌐 Frontend
 
-<p align="left">
-
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-
-</p>
 
 ### ⚙️ Backend & Database
 
-<p align="left">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-
-</p>
 
 ### 🧰 Tools & Platforms
 
-<p align="left">
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel" />
 
-</p>
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Suryansh2803/Splitvilla">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suryansh2803&repo=Splitvilla&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/Suryansh2803/Supernova_2.0">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suryansh2803&repo=Supernova_2.0&theme=github_dark&hide_border=true" />
+</a>
+
+</div>
+
+### 💰 SplitVilla — Smart Expense Splitter
+
+A web application that simplifies shared expenses and minimizes unnecessary transactions between groups.
+
+**Tech:** HTML • CSS • JavaScript • LocalStorage
+
+🔗 [Live Demo](https://splitvilla.vercel.app/)
+
+🔗 [Source Code](https://github.com/Suryansh2803/Splitvilla)
+
+---
+
+### 🌌 Supernova
+
+An interactive web project focused on creating a modern, engaging and responsive user experience.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [Source Code](https://github.com/Suryansh2803/Supernova_2.0)
+
+---
+
+### 🌐 College Club Website
+
+A modern college club website focused on interactive UI, responsive design and an engaging user experience.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+# 🧠 DSA Journey
+
+> "First solve the problem. Then write the code."
+
+Currently focused on strengthening my problem-solving skills through consistent Data Structures & Algorithms practice.
+
+### 📚 Topics
+
+`Arrays` `Strings` `Two Pointers` `Sliding Window`
+
+`Binary Search` `Linked Lists` `Stacks` `Queues`
+
+`Recursion` `Trees` `Graphs` `Heaps`
+
+`Greedy` `Backtracking` `Bit Manipulation`
+
+`Dynamic Programming` `Tries`
+
+### ⚡ Practice
+
+💻 **200+ LeetCode Problems Solved**
+
+📌 Following structured DSA practice and regularly revising previously solved problems.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Suryansh2803&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=Suryansh2803&theme=dark&hide_border=true" height="170"/>
+
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Suryansh2803&theme=dark&hide_border=true&layout=compact"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Suryansh2803&theme=darkhub&no-frame=true&no-bg=true&margin-w=6"/>
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://leetcode.com/suryansh_2803">
+  <img src="https://img.shields.io/badge/LeetCode-2563EB?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/suryanshyadav2803/">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-website-theta-ten-66.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:suryanshyadav117@gmail.com">
+  <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Learn. Build. Solve. Repeat.
+
+<img src="https://komarev.com/ghpvc/?username=Suryansh2803&style=flat-square&color=2563EB"/>
+
+</div>
