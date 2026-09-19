@@ -192,11 +192,21 @@ A modern college club website focused on interactive UI, responsive design and a
 
 <br><br>
 
+### 🏆 Contest Rating
+
+<a href="https://leetcode.com/suryansh_2803">
+
+<img src="https://leetcard.jacoblin.cool/suryansh_2803?theme=dark&font=baloo&ext=contest" width="500"/>
+
+</a>
+
+<br><br>
+
 ### 📊 Problem Solving Activity
 
 <img src="https://leetcard.jacoblin.cool/suryansh_2803?theme=dark&font=baloo&ext=heatmap" width="700"/>
 
-<br>
+<br><br>
 
 <a href="https://leetcode.com/suryansh_2803">
 
@@ -206,7 +216,7 @@ A modern college club website focused on interactive UI, responsive design and a
 
 </div>
 
----
+
 
 # 📊 GitHub Analytics
 
@@ -230,10 +240,6 @@ A modern college club website focused on interactive UI, responsive design and a
 
 <a href="https://leetcode.com/suryansh_2803">
   <img src="https://img.shields.io/badge/LeetCode-2563EB?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/suryanshyadav2803/">
-  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-website-theta-ten-66.vercel.app/">
