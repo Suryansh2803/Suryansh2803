@@ -36,54 +36,47 @@
 
 ## 👨‍💻 About Me
 
-```cpp
-class Suryansh {
-public:
+<div align="center">
 
-    string role = "Software Developer";
-    string education = "B.Tech CSE (AI/ML)";
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Suryansh+Yadav+%F0%9F%91%8B;B.Tech+CSE+(AI%2FML)+Student+%F0%9F%8E%93;Software+Developer+%7C+Problem+Solver+%F0%9F%A7%A0;200%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Building.+Learning.+Improving.+%F0%9F%9A%80" alt="About Me"/>
 
-    vector<string> interests = {
-        "Data Structures & Algorithms",
-        "Full-Stack Development",
-        "Artificial Intelligence",
-        "Problem Solving"
-    };
+</div>
 
-    vector<string> currentlyLearning = {
-        "Advanced DSA",
-        "React & Node.js",
-        "AI / Machine Learning"
-    };
+<br>
 
-    string goal =
-        "Build useful software and become a better problem solver.";
-
-    string mindset =
-        "Learn → Build → Solve → Improve 🚀";
-};
-```
-
----
-
-## 🚀 What I'm Currently Doing
+<div align="center">
 
 ```text
-┌──────────────────────────────────────────────────┐
-│  ~/suryansh/status                               │
-│                                                  │
-│  🧠  Mastering Data Structures & Algorithms      │
-│  💻  Building Full-Stack Web Projects            │
-│  🌐  Learning React & Node.js                    │
-│  🗄️  Working with MongoDB & SQL                 │
-│  🤖  Exploring AI / Machine Learning             │
-│  🔥  Solving problems on LeetCode                │
-│  🚀  Preparing for Software Engineering          │
-│      Internships & Placements                    │
-│                                                  │
-│  status: ● ONLINE                                │
-└──────────────────────────────────────────────────┘
-```
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│   $ whoami                                                 │
+│   └─ Suryansh Yadav                                       │
+│                                                            │
+│   $ role                                                   │
+│   └─ Software Developer                                   │
+│                                                            │
+│   $ education                                              │
+│   └─ B.Tech CSE (AI/ML)                                   │
+│                                                            │
+│   $ interests                                              │
+│   ├─ 🧠 Data Structures & Algorithms                       │
+│   ├─ 💻 Full-Stack Development                            │
+│   ├─ 🤖 Artificial Intelligence & Machine Learning         │
+│   └─ 🚀 Building Real-World Projects                      │
+│                                                            │
+│   $ currently_learning                                     │
+│   ├─ Advanced DSA                                          │
+│   ├─ React & Node.js                                       │
+│   └─ AI / Machine Learning                                 │
+│                                                            │
+│   $ mission                                                │
+│   └─ Turn ideas → useful software                          │
+│                                                            │
+│   $ status                                                 │
+│   └─ ● ONLINE • Always Learning                            │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+
 
 ### 🎯 Current Focus
 
