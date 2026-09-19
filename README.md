@@ -8,128 +8,30 @@ Currently focused on **Data Structures & Algorithms, Full-Stack Development, and
 
 ---
 
-## 🧑‍💻 About Me
-
-```cpp
-class Suryansh {
-public:
-
-    string role = "Aspiring Software Developer";
-    string education = "B.Tech CSE (AI/ML)";
-
-    vector<string> interests = {
-        "Data Structures & Algorithms",
-        "Full-Stack Development",
-        "Artificial Intelligence",
-        "Problem Solving"
-    };
-
-    string currentFocus = "DSA + Full Stack + AI/ML";
-
-    string mindset = "Learn → Build → Solve → Improve 🚀";
-};
-🚀 What I'm Currently Doing
-🧠 Strengthening Data Structures & Algorithms with C++
-💻 Building full-stack web applications
-🌱 Learning React, Node.js & MongoDB
-🤖 Exploring Artificial Intelligence & Machine Learning
-🔥 Practicing problems on LeetCode
-🏗️ Building projects that solve real-world problems
-🤝 Open to collaborating on interesting projects & open source
-🛠️ Tech Stack
-💻 Languages
+# 💫 About Me:
+🚀 Currently building full-stack web projects and exploring AI/ML<br>💻 B.Tech CSE (AI/ML) student at GL Bajaj Institute of Technology & Management<br>🧠 Currently strengthening my Data Structures & Algorithms skills<br>🌱 Learning React, Node.js, MongoDB & modern web development<br>🤝 Open to collaborating on interesting web development, AI/ML & open-source projects<br>💬 Ask me about DSA, C++, JavaScript, Web Development & problem solving<br>⚡ Fun fact: I enjoy turning ideas into projects and solving problems with code
 
 
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryanshyadav117@gmail.com) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Suryansh2803&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Suryansh2803&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Suryansh2803&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Suryansh2803&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Suryansh2803&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://komarev.com/ghpvc/?username=Suryansh2803&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🌐 Web Development
-
-
-
-
-
-
-
-
-
-
-
-
-🗄️ Databases
-
-
-
-
-🧰 Tools
-
-
-
-
-
-
-
-
-🚀 Featured Projects
-💰 SplitVilla — Smart Expense Splitter
-
-A web application that simplifies shared expenses and minimizes unnecessary transactions between groups.
-
-Tech: HTML • CSS • JavaScript • LocalStorage
-
-🔗 Live Demo: https://splitvilla.vercel.app/
-
-🔗 Source Code: https://github.com/Suryansh2803/Splitvilla
-
-🌌 Supernova
-
-An interactive web project focused on creating a modern, engaging and responsive user experience.
-
-Tech: HTML • CSS • JavaScript
-
-🔗 Source Code: https://github.com/Suryansh2803/Supernova_2.0
-
-🌐 College Club Website
-
-A modern college club website focused on interactive UI, responsive design and an engaging user experience.
-
-Tech: HTML • CSS • JavaScript
-
-🧠 DSA Journey
-
-"First solve the problem. Then write the code."
-
-Currently focused on strengthening my problem-solving skills through consistent Data Structures & Algorithms practice.
-
-📚 Topics
-
-Arrays Strings Two Pointers Sliding Window
-
-Binary Search Linked Lists Stacks Queues
-
-Recursion Trees Graphs Heaps
-
-Greedy Backtracking Bit Manipulation
-
-Dynamic Programming Tries
-
-⚡ Practice
-
-💻 200+ LeetCode Problems Solved
-
-📌 Following structured DSA practice and regularly revising previously solved problems.
-
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.shion.dev/api?username=Suryansh2803&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="170"/> <img src="https://streak-stats.demolab.com/?user=Suryansh2803&theme=dark&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Suryansh2803&theme=dark&hide_border=true&layout=compact"/> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Suryansh2803&theme=darkhub&no-frame=true&no-bg=true&margin-w=6"/> </p>
-🌐 Let's Connect
-<p align="center"> <a href="mailto:suryanshyadav117@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Suryansh2803"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
-<p align="center">
-⚡ Learn. Build. Solve. Repeat.
-</p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Suryansh2803&style=flat-square&color=blue"/> </p> ```
-
-Small note: If you're not actually using React/Node/MongoDB/Tailwind yet, remove them from the stack until you have hands-on projects with them. That makes the profile more credible.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
