@@ -17,19 +17,18 @@
 <p align="center">
 
   <a href="https://leetcode.com/suryansh_2803">
-    <img src="https://img.shields.io/badge/LeetCode-00FF9C?style=for-the-badge&logo=leetcode&logoColor=0D1117"/>
+    <img src="https://img.shields.io/badge/LeetCode-2563EB?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/suryanshyadav2803/">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF9C?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://portfolio-website-theta-ten-66.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=google-chrome&logoColor=0D1117"/>
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 
 </p>
-
 <p align="center">
   <b>Learn → Build → Solve → Improve 🚀</b>
 </p>
